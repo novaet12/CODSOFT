@@ -8,3 +8,5 @@ from the given instructions i have dicided too use this :
 
 and i have used some codes from stackoverflow and some youtube videos
 by modularization pricple i used separate files to manage the score,the functions and a main page
+
+to run the code the main file is the one that is labeld numbergame
